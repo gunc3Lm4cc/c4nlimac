@@ -15,7 +15,7 @@
       </p>
     </section>
     <section id="neden-canlimacizle">
-      <h2>📺 Neden Buradan İzlemelisiniz?</h2>
+      <h2>📺 Neden Buradan. İzlemelisiniz?</h2>
       <ul>
         <li><strong>Ücretsiz Yayın:</strong> Üyelik gerektirmeden izle</li>
         <li><strong>Tüm Cihazlar:</strong> Telefon, tablet ve bilgisayardan erişim</li>
